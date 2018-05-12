@@ -1,0 +1,46 @@
+_repo: The-Last-American-Frontier_45699
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45699-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Paxson, Frederic L. (Frederic Logan)
+    alias: Paxson, Frederic Logan
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '33034'
+    url: http://www.gutenberg.org/2009/agents/33034
+description: The History of the American West Collection is a unique project that
+  provides opportunities for researchers and new readers to easily access and explore
+  works which have previously only been available on library shelves. The Collection
+  brings to life pre-1923 titles focusing on a wide range of topics and experiences
+  in US Western history. From the initial westward migration, to exploration and development
+  of the American West to daily life in the West and intimate pictures of the people
+  who inhabited it, this collection offers American West enthusiasts a new glimpse
+  at some forgotten treasures of American culture. Encompassing genres such as poetry,
+  fiction, nonfiction, tourist guides, biographies and drama, this collection provides
+  a new window to the legend and realities of the American West.
+gutenberg_issued: '2014-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45699'
+  lccn: '10005085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- History'
+tableOfContents: 'The westward movement -- The Indian frontier -- Iowa and the new
+  northwest -- The Santa Fé trail -- The Oregon trail -- Overland with the Mormons
+  -- California and the forty-niners -- Kansas and the Indian frontier -- "Pike''s
+  Peak or bust!" -- From Arizona to Montana -- The overland mail -- The engineers''
+  frontier -- The Union Pacific railroad -- The plains in the Civil War -- The Cheyenne
+  war -- The Sioux war -- The Peace Commission and the open way -- Black Kettle''s
+  last raid -- The first of the railways -- The new Indian policy -- The last stand:
+  Chief Joseph and Sitting Bull -- Letting in the population -- Bibliographical note.'
+title: The Last American Frontier
+url: http://www.gutenberg.org/ebooks/45699
